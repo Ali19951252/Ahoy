@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Ahoy\Project1.csproj" />
+    <ProjectReference Include="..\Ahoy\ProjectHotel.csproj" />
     <ProjectReference Include="..\ProjectCommons\ProjectCommons.csproj" />
   </ItemGroup>
 
